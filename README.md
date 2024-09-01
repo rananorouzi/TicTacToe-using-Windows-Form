@@ -1,2 +1,2 @@
-# TicTacToe using Windows Form
- TicTacToe in C# using Windows Form
+# Tic-Tac-Toe
+ Simple Tic-Tac-Toe game in C# usin Windows Forms
